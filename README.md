@@ -1,5 +1,7 @@
 # www.atribut.com
-www.atribut.com website development!
-frontend and backend
-  frontend: html css javascript bootstrap jquerry
-  backend: php(mail)
+www.atribut.com website development!<br>
+<h3>front-end and back-end</h3>
+
+  <b>frontend:</b> <i>html css javascript bootstrap jquerry</i>
+  <br>
+  <b>backend:</b> <i>php(mail)</i>
