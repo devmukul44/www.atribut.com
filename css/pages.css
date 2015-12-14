@@ -1,0 +1,65 @@
+.page-header
+{
+    width: 100%;
+    max-width: 1900px;
+    max-height: 400px;
+    overflow: hidden;
+    position: relative;
+    margin-top: 51px;
+    margin-bottom: 20px;
+}
+.page-header img
+{
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.spacer-lg
+{
+    height: 30px; 
+    position: relative;
+}
+
+.short-news
+{
+    position: relative;
+    background-color: #ececec;
+    height: auto;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    float:left;
+}
+.short-photo
+{
+    height: 240px;
+    padding: 20px 0;
+    text-align: center;
+}
+.short-photo img 
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    
+}
+.short-title 
+{
+    font-size: 26px;
+    padding: 0 10px 10px 10px;
+    text-align: center;
+    height: 35px;
+    overflow: hidden;
+}
+.short-text 
+{
+    padding: 10px;
+    max-height: 154px;
+    min-height: 154px;
+    overflow: hidden;
+}
+.page-pagination
+{
+    float: right;
+    padding-right: 20px;
+}
