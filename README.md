@@ -1,6 +1,4 @@
-# www.atribut.com
-www.atribut.com website development!<br>
-<h3>front-end and back-end</h3>
+<h3>back-end development for atribut.com</h3>
 
   <b>frontend:</b> <i>html css javascript bootstrap jquerry </i>
   <br>
